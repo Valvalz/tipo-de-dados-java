@@ -1,5 +1,5 @@
 public class EstruturaDeSelecao {
-    public static void public static void main(String[] args) {
+     public static void main(String[] args) {
         int idade;
          
         idade=19;
